@@ -1,0 +1,23 @@
+[
+  {
+    "email": "tientung03.nttvn@gmail.com",
+    "password": "$2b$10$AVtYiSpqfevsh4M2CDVh9.1K3WKVRLgLYoBOUcmM05zw.zFDKkqnq",
+    "name": "Tien Tung",
+    "role": "Quản trị viên",
+    "room_ids":[1,2]
+  },
+  {
+    "email": "vvu22096@gmail.com",
+    "password": "$2b$10$yWmKVCE0/b3JJTr29x3vDOkFElasiRKvBPw4ifY0D78FMINglK6Bm",
+    "name": "Classic Wooden Wall Clock",
+    "role": "Bác sĩ xét nghiệm",
+    "room_ids":[2]
+  },
+  {
+    "email": "helloworld@mail.com",
+    "password": "$2b$10$glfdPR7ucs8CbTKd.8XNse1ojcdaXHW26M4RjjF3Y8hYvq/MAy16K",
+    "name": "Hello World",
+    "role": "Bác sĩ khám",
+    "room_ids":[2]
+  }
+]
